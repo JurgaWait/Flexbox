@@ -1,7 +1,7 @@
 .flexbox {
     display: flex;
     flex-direction: column;
-    background-color: rgb(223, 200, 245);
+    background-color: rgb(250, 169, 219);
     text-decoration-color: yellow;
     width: 30%;
     height: 200px;
@@ -11,6 +11,6 @@
     justify-content: center;
     text-align: center;
     font-size: large;
-    font-style: oblique;
+    font-style:normal;
     font-family: Arial, Helvetica, sans-serif;
 }
